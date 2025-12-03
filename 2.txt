@@ -1,10 +1,4 @@
-Define subsets of the complex number set \(\mathbb{C}\):
-\[
-A = \left\{ z \in \mathbb{C} \mid z = r e^{i\theta},\ r \geq 0,\ \theta \in \left[0, \frac{\pi}{41}\right] \right\},
-\]
-\[
-B = \left\{ z \in \mathbb{C} \mid z = x + iy,\ x,y \in \mathbb{R},\ |x - y| < 2025 \right\},
-\]
-where \(i\) is the imaginary unit and \(r e^{i\theta} = r(\cos\theta + i\sin\theta)\).
+Let convex quadrilateral \(ABCD\) be inscribed in a circle with center \(O\) and radius 1, satisfying \(\angle ABC < \angle BCD < 90^\circ\). Let \(P\) be the intersection of lines \(BA\) and \(CD\), and \(Q\) be the intersection of diagonals \(AC\) and \(BD\). It is known that there exists a point \(K\) on segment \(BC\) such that \(P, A, K, D\) are concyclic, and \(KB \cdot KC = \frac{1}{2}OP^2\). Draw the perpendicular from \(Q\) to \(BC\), which intersects line \(OP\) at point \(T\).
 
-Find all univariate complex polynomials \(P(z)\) such that for any \(z \in A\), \(P(z) \in B\). (Note: Monomials are also considered polynomials.)
+(1) Find all possible values of \(OP\);
+(2) Find all possible values of \(TB + TC\).
