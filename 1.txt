@@ -1,0 +1,10 @@
+Define subsets of the complex number set \(\mathbb{C}\):
+\[
+A = \left\{ z \in \mathbb{C} \mid z = r e^{i\theta},\ r \geq 0,\ \theta \in \left[0, \frac{\pi}{41}\right] \right\},
+\]
+\[
+B = \left\{ z \in \mathbb{C} \mid z = x + iy,\ x,y \in \mathbb{R},\ |x - y| < 2025 \right\},
+\]
+where \(i\) is the imaginary unit and \(r e^{i\theta} = r(\cos\theta + i\sin\theta)\).
+
+Find all univariate complex polynomials \(P(z)\) such that for any \(z \in A\), \(P(z) \in B\). (Note: Monomials are also considered polynomials.)

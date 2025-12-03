@@ -1,0 +1,8 @@
+We have 70 cards of 30 distinct colors: 50 form the upper pile, and 20 form the lower pile. Perform the following operation:
+\begin{itemize}
+    \item Each time, pick a card from the lower 20 whose color does not appear in the upper 50;
+    \item Remove this card and place it on top of a card (with a repeated color) in the upper 50.
+\end{itemize}
+
+(1) Prove that this operation must terminate;
+(2) Find the maximum possible number of operations.

@@ -1,0 +1,8 @@
+Find the range of \( \lambda \) such that for sufficiently large positive integers \( n \), there exist real numbers \( x_1, x_2, \dots, x_n \) satisfying
+\[
+x_1 + x_2 + \dots + x_n = 1 \tag{1}
+\]
+and
+\[
+\left( \sum_{1 \leq i < j \leq n} x_i x_j \right)^2 \leq \lambda \left( \sum_{1 \leq i < j < k \leq n} x_i x_j x_k \right) - \frac{1}{n} \sum_{1 \leq i < j \leq n} (x_i - x_j)^2. \tag{2}
+\]

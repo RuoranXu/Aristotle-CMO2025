@@ -1,0 +1,3 @@
+Let \(n\) be a positive integer. There are \(n\) red cards and \(n\) blue cards: initially, each red card has the real number \(0\) written on it, and each blue card has the real number \(1\) written on it. An operation is defined as follows: choose a red card (with real number \(x\)) and a blue card (with real number \(y\)) where \(x < y\), erase \(x\) and \(y\), and write \(\frac{x+y}{2}\) on both cards.
+
+Find the smallest positive integer \(n\) such that, after finitely many appropriate operations, the sum of the real numbers on all \(n\) red cards is greater than 100.
