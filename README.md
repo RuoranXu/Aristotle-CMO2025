@@ -1,1 +1,1 @@
-# Aristotle-CMO-2025-
+# Aristotle (CMO 2025)
